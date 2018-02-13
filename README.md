@@ -16,4 +16,5 @@ Format for text to be entered in the search bar:
 <li> Retail facility/node : Retail_ID (For eg: Retail_001, Retail_005, etc) </li>
 <li> Transportation facility/node : Trans_ID (For eg: Trans_001, Trans_005, etc) </li>
 </ol>
-Technologies used: Python, Flask, Canvas.js, Html, CSS
+
+Technologies used: Python, Flask, Canvas.js, Javascript, Html, CSS
